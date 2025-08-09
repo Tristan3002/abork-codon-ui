@@ -2,14 +2,14 @@
 
 ## A. borkumensis Codon Optimizer (React + Vite + Tailwind)
 
-A clean, browser-based **codon optimizer for *Alcanivorax borkumensis* (SK2)**.
+A clean, browser-based **codon optimizer for *Alcanivorax borkumensis*.
 Paste a protein (amino-acid) sequence **or** a DNA/RNA coding sequence (FASTA or raw), pick options, and export an **optimized FASTA** that uses the organism’s **most-preferred codon** for every amino acid.
 
 ---
 
 ## Why this exists
 
-When expressing heterologous genes in *A. borkumensis*, codon usage mismatches can throttle translation. This tool performs a **greedy** optimization—each residue is mapped to the **top-frequency codon** from the organism’s codon usage table (Kazusa; strain SK2). It’s intentionally simple and fast, with room for smarter heuristics later.
+When expressing heterologous genes in *A. borkumensis*, codon usage mismatches can throttle translation. This tool performs a **greedy** optimization—each residue is mapped to the **top-frequency codon** from the organism’s codon usage table. It’s intentionally simple and fast, with room for smarter heuristics later.
 
 ---
 
