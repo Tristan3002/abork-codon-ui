@@ -194,5 +194,5 @@ npm run preview   # serve /dist locally
 
 ## License
 
-MIT © *Tristan Crawford, 2025*
+MIT © *Biointerfaces and Bioremediation Lab, 2025*
 
