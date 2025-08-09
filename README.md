@@ -2,7 +2,7 @@
 
 ## A. borkumensis Codon Optimizer (React + Vite + Tailwind)
 
-A clean, browser-based **codon optimizer for *Alcanivorax borkumensis*. **
+A clean, browser-based codon optimizer for *Alcanivorax borkumensis*.
 Paste a protein (amino-acid) sequence **or** a DNA/RNA coding sequence (FASTA or raw), pick options, and export an **optimized FASTA** that uses the organism’s **most-preferred codon** for every amino acid.
 
 ---
