@@ -5,9 +5,6 @@
 A clean, browser-based **codon optimizer for *Alcanivorax borkumensis* (SK2)**.
 Paste a protein (amino-acid) sequence **or** a DNA/RNA coding sequence (FASTA or raw), pick options, and export an **optimized FASTA** that uses the organism’s **most-preferred codon** for every amino acid.
 
-**Live Demo:** *add your URL here*
-**Screenshot:** *add a screenshot to `/public/screenshot.png` and link it here*
-
 ---
 
 ## Why this exists
