@@ -9,7 +9,7 @@ Paste a protein (amino-acid) sequence **or** a DNA/RNA coding sequence (FASTA or
 
 ## Why this exists
 
-When expressing heterologous genes in *A. borkumensis*, codon usage mismatches can throttle translation. This tool performs a **greedy** optimization—each residue is mapped to the **top-frequency codon** from the organism’s codon usage table. It’s intentionally simple and fast, with room for smarter heuristics later.
+When expressing heterologous genes in *A. borkumensis*, codon usage mismatches can throttle translation. This tool performs a **greedy** optimization, each residue is mapped to the **top-frequency codon** from the organism’s codon usage table. It’s intentionally simple and fast, with room for smarter heuristics later.
 
 ---
 
